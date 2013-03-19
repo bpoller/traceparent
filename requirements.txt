@@ -1,5 +1,4 @@
--e git+git://github.com/django/django.git#egg=Django-dev
-#egg=Django-dev
+-e git+git://github.com/django/django.git#egg=Django-dev#egg=Django-dev
 Markdown==2.1.1
 MySQL-python==1.2.3
 distribute==0.6.35
