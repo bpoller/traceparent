@@ -15,4 +15,4 @@ DATABASES = {
     }
 }
 
-SECRET_KEY = ''
+SECRET_KEY = 'q)#r434^2x)4eu^#x_akx6p#2wu%u(358hkywbmgxya8=*592k'
